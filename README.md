@@ -13,7 +13,7 @@ Below is a table summarizing the algorithms covered in the project, with links t
 | Linear Regression| [Notebook](linear-regression/lin_reg.ipynb)     | [Notebook](link_to_linear_regression_scikit-learn) | [Blog](link_to_linear_regression_blog)            | [Video](link_to_linear_regression_video)        |
 | Logistic Regression| [Notebook](logistic-regression/log_reg.ipynb)  | [Notebook](link_to_logistic_regression_scikit-learn) | [Blog](link_to_logistic_regression_blog)          | [Video](link_to_logistic_regression_video)      |
 | Support Vector Machine (SVM)| [Notebook](link_to_svm_scratch)             | [Notebook](link_to_svm_scikit-learn)              | [Blog](link_to_svm_blog)                          | [Video](link_to_svm_video)                      |
-| Decision Trees   | [Notebook](link_to_decision_trees_scratch)      | [Notebook](link_to_decision_trees_scikit-learn)    | [Blog](link_to_decision_trees_blog)               | [Video](link_to_decision_trees_video)           |
+| Decision Trees   | [decision-tree/dec-tree.ipynb](link_to_decision_trees_scratch)      | [Notebook](link_to_decision_trees_scikit-learn)    | [Blog](link_to_decision_trees_blog)               | [Video](link_to_decision_trees_video)           |
 | k-Nearest Neighbors (kNN)| [Notebook](k-nearest-neighbours/knn.ipynb)                 | [Notebook](link_to_knn_scikit-learn)               | [Blog](link_to_knn_blog)                          | [Video](link_to_knn_video)                      |
 | k-Means Clustering| [Notebook](link_to_kmeans_scratch)              | [Notebook](link_to_kmeans_scikit-learn)            | [Blog](link_to_kmeans_blog)                       | [Video](link_to_kmeans_video)                   |
 
