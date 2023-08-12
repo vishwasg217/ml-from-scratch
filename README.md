@@ -16,7 +16,7 @@ Below is a table summarizing the algorithms covered in the project, with links t
 | Decision Trees   | (Notebook)[decision-tree/dec-tree.ipynb](link_to_decision_trees_scratch)      | [Notebook](link_to_decision_trees_scikit-learn)    | [Blog](link_to_decision_trees_blog)               | [Video](link_to_decision_trees_video)           |
 | k-Nearest Neighbors (kNN)| [Notebook](k-nearest-neighbours/knn.ipynb)                 | [Notebook](link_to_knn_scikit-learn)               | [Blog](link_to_knn_blog)                          | [Video](link_to_knn_video)                      |
 | Gaussian Naive Bayes      | [Notebook](guassian-naive-bayes/gnb.ipynb)         | [Notebook](link_to_naive_bayes_scikit-learn)       | [Blog](link_to_naive_bayes_blog)                  | [Video](link_to_naive_bayes_video)              |
-| k-Means Clustering| [Notebook](link_to_kmeans_scratch)              | [Notebook](link_to_kmeans_scikit-learn)            | [Blog](link_to_kmeans_blog)                       | [Video](link_to_kmeans_video)                   |
+| k-Means Clustering| [Notebook](k-means-clustering/kmeans.ipynb)              | [Notebook](link_to_kmeans_scikit-learn)            | [Blog](link_to_kmeans_blog)                       | [Video](link_to_kmeans_video)                   |
 
 Feel free to explore each algorithm's implementation, compare them with the corresponding `scikit-learn` version, and delve into the blog posts and videos to gain a deeper understanding of how these algorithms work under the hood.
 
