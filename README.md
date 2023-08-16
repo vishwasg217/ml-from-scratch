@@ -1,7 +1,6 @@
 # ML From Scratch 
 **Exploring ML and DL Algorithms Under the Hood.**
 
----
 
 ML From Scratch is a project aimed at helping individuals develop a fundamental understanding of various Machine Learning (ML) and Deep Learning (DL) algorithms by coding them from scratch. Each algorithm implementation is provided in a separate Jupyter notebook, allowing you to explore and comprehend the algorithms without relying on external libraries like `scikit-learn`. Additionally, links to resources in the form of blog posts and videos (thanks to [statquest](https://www.youtube.com/@statquest)) are provided to aid you in grasping the inner workings of these algorithms.
 
